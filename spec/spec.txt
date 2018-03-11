@@ -1,0 +1,40 @@
+Besoins
+
+Ce site web à pour objectif de me présenter sur le plan professionnel et personnel 
+
+Rubriques:
+- Qui suis je? (static)
+    - Etat civil
+    - CV exportable
+
+
+
+
+- Experiences professionnels
+    liste des derniers Experiences vers des pages web
+    pour la thèse, sujet, problematique, solution, publications, manuscrit
+
+- Formations
+    -Parcours academique
+    -Projets personnels
+
+- Projets professionnel
+
+- Ce j'aime (Dynamique)
+    - Video
+    - Photos
+    - Aricles 
+
+- Back office pour updater ou ajouter des posts
+
+
+US1: Maquette du site
+US2: Composant Qui suis je?
+US3: Composant experiences professionnel (ajouter, modifier, publier une experiences)
+US4: Composant Ce que j'aime (publier un like, supprimer un like)
+ - un like peut être un article, une vidéo, une photo 
+ - les like sont tagger
+
+
+
+
